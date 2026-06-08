@@ -1,3 +1,10 @@
 # Pythonのキャッシュファイル
 __pycache__/
 *.pyc
+
+# Streamlitの一時ファイル
+.streamlit/
+
+# 仮想環境を使用している場合
+venv/
+.venv/
